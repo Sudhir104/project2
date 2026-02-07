@@ -1,2 +1,2 @@
-# Thhis is reamde file of project2
-this is created by Sudhir Mathur
+# This is reamde file of project2
+This is created by Sudhir Mathur,this is change in feature branch.
