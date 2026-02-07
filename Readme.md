@@ -1,5 +1,2 @@
-# This is reamde file of project2
-This is created by Sudhir Mathur ,I made some changes .
-
-
-
+# Thhis is reamde file of project2
+this is created by Sudhir Mathur
